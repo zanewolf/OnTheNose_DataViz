@@ -5,10 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65df6a4e-d1f3-446d-a0b4-a231c579748d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bubble_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bubble_chart.js" afterDir="false" />
-    </list>
+    <list default="true" id="65df6a4e-d1f3-446d-a0b4-a231c579748d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +51,7 @@
       <updated>1611451254600</updated>
       <workItem from="1611451256575" duration="10883000" />
       <workItem from="1612567759528" duration="107260000" />
-      <workItem from="1613263781777" duration="756000" />
+      <workItem from="1613263781777" duration="1368000" />
     </task>
     <servers />
   </component>
