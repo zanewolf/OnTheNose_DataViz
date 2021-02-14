@@ -452,7 +452,7 @@ class BubbleChart {
             .append('text')
             .style('font-size', '12pt')
             .style('text-anchor', 'middle')
-            .text("For the last three decades, Hans Florine has climbed the same 3000+ foot (900m) climb over 100 times. And he got really quick at it. He was not the first to climb the Nose, this historic climb up El Capitan in Yosemite, in under a day, but he was the first to do so in under 10 hours. And then 6...4...3...2 and a half. Hans reset the 'Classic' two-man team speed record 8 times, in addition to a few other speed records. These are his 101 climbs on the Nose.")
+            .text("For the last three decades, Hans Florine has climbed the same 3000+ foot (900m) route over 100 times. And he got really quick at it. He was not the first to climb the Nose, this historic climb up El Capitan in Yosemite, in under a day, but he was the first to do so in under 10 hours. And then 6...4...3...2 and a half. Hans reset the 'Classic' two-man team speed record 8 times, in addition to a few other speed records. These are his first 101 climbs on the Nose.")
             .call(vis.wrap, vis.width/4)
 
             // .html(`
