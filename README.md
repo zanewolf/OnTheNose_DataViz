@@ -36,7 +36,7 @@ At this point, the format of the datavis is a bubble chart, a la [Jim Vallanding
 
 ### Post-Mortem
 
-Things I would do better/refactor if I wanted to spend more time on this project: a more stylistic tooltip, a more effecient/less repetitive way to create the labels in the first place - including farming it out affinity and then just improving an image-, and maybe try to make it mobile-friendly, which is something I've never prioritized before. 
+Things I would do better/refactor if I wanted to spend more time on this project: a more stylistic tooltip, a more effecient/less repetitive way to create the labels in the first place - including farming it out affinity and then just including an image-, and maybe try to make it mobile-friendly, which is something I've never prioritized before. 
 
 In the beta testing, the original version of the Nose vector graphic was hard for non-climbers to interpret at first glance, so I added trees to hopefully give it better context. It was hard to test whether this change elicited an improvement because at that point all the beta-testers knew what they were looking at, lol. 
 
